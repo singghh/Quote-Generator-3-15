@@ -44,8 +44,6 @@ body{
     background-color: gray;
     letter-spacing: 1px;
     cursor: pointer;
-    position: fixed;
-    bottom: 100px;
 
 }
 .quote-box{
@@ -55,4 +53,5 @@ body{
     border: 2px solid;
     justify-content: center;
     align-items: center;
+    border: 2px solid white;
 }
